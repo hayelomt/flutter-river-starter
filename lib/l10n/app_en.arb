@@ -1,0 +1,11 @@
+{
+  "appName": "Flutter sStarter",
+  "settings": "Settings",
+  "theme": "Theme",
+  "configureTheme": "Configure theme",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "themeSystem": "System",
+  "themeMode": "Theme mode",
+  "themeColor": "Color"
+}

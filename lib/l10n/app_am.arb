@@ -1,0 +1,11 @@
+{
+  "appName": "Flutter sStarter",
+  "settings": "ቅንብሮች",
+  "theme": "ጭብጥ",
+  "configureTheme": "ጭብጥን ማዋቀር",
+  "themeLight": "ብርሃን",
+  "themeDark": "ጨለማ",
+  "themeSystem": "System",
+  "themeMode": "Theme mode",
+  "themeColor": "Color"
+}
